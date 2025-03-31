@@ -1,5 +1,4 @@
-# PRODIGY_GA_03
-Markov Chain-based Text Generator
+# Markov Chain-based Text Generator
 
 ```markdown
 # 🧠 Markov Chain Text Generator
